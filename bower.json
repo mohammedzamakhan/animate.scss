@@ -1,0 +1,24 @@
+{
+  "name": "animate.scss",
+  "version": "1.1.0",
+  "description": "Animate.css port to Sass",
+  "main": "animate.scss",
+  "keywords": [
+    "animate.css",
+    "scss",
+    "css3",
+    "effects"
+  ],
+  "authors": [
+    "Hampus Persson"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    ".sass-cache"
+  ]
+}
