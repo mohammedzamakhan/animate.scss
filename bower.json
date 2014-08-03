@@ -2,7 +2,7 @@
   "name": "animate.scss",
   "version": "1.0.2",
   "description": "Animate.css port to Sass",
-  "main": "animate.scss",
+  "main": "./animate.scss",
   "keywords": [
     "animate.css",
     "scss",
